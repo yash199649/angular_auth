@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "server.js",
-  "author": "Ryan Chenkie (Auth0)",
+  "author": "yash sharma",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.7.1",
